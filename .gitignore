@@ -1,0 +1,10 @@
+ffmpeg/
+ffmpeg_compiled/
+omxplayer-dist
+*.tgz
+*.o
+gen_version.sh
+omxplayer.bin
+MAN
+omxplayer.1
+install.sh
